@@ -1,2 +1,1 @@
-# Eduhub
-https://asmivats.github.io/Eduhub/
+https://asmivats.github.io/Beyond-excellence-/
